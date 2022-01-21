@@ -1,0 +1,72 @@
+body {
+    background-color: #ffffff;
+}
+
+.container {
+    margin: 0;
+}
+
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand h1 {
+    color: black;
+    font-size: 1.5em;
+    text-transform: none;
+    font-weight: normal;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .25;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid darkgrey;
+    background-color: lightgrey;
+}
+
+.row {
+    margin: auto;
+}
+
+#box {
+    background-color: lightgrey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#nav-list a {
+    margin-top: 10px;
+    color: rgb(31, 43, 31);
+    font-weight: bold;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #e6e4e4;
+}
+
+
+
+
+@media (max-width: 767px) {
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+
+@media (min-width: 992px) {
+
+}
